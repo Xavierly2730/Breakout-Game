@@ -18,7 +18,7 @@ var brickPadding = 10;
 var brickOffsetTop = 29;
 var brickOffsetLeft = 50;
 var score = 0;
-var lives = 3;
+var lives = 1;
 
 var bricks = [];
 for(var c=0; c<brickColumnCount; c++) {
